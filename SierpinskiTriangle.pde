@@ -10,7 +10,7 @@ for (int i=0;i<600;i+=50){
 sierpinski(i-100,347,200);
 stroke(0,0,0);
 flippedSierpinski(i-75,0,200);
-stroke(0,0,0);
+stroke(0,0,20);
 }
 }
 public void sierpinski(int x, int y, int len) 
